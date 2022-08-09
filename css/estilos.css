@@ -42,3 +42,9 @@ body
 {
     padding: 1em;
 }
+
+#listado
+{
+    list-style: circle;
+    list-style-type: lower-roman;
+}
